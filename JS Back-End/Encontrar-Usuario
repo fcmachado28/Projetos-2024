@@ -1,0 +1,4 @@
+const listaDeContatos = ['Paulo', 'Selina', 'Roger', 'Rubens', 'Zeca', 'Natália', 'Bianca']
+
+let encontrouUusuario = false
+let contador = 0
